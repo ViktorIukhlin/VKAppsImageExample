@@ -2,7 +2,7 @@
   "name": "vk-apps-image-example",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://viktoriukhlin.github.io/VkVezdekodWebApp/",
+  "homepage": "https://viktoriukhlin.github.io/VKAppsImageExample/",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
