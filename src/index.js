@@ -7,6 +7,7 @@ import App from './App';
 
 window.history.replaceState(null, null, '/');
 
+
 bridge.send('VKWebAppInit', {});
 
 ReactDOM.render(<App />, document.getElementById('root'));
